@@ -16,8 +16,10 @@ We propose EMMA, an efficient and unified architecture for multimodal understand
 
 
 ## ✨ Comparison Result
-Comparison between different unified multimodal approaches across multimodal understanding, text-to-image generation, and image editing benchmarks.
+* Comparison between different unified multimodal approaches across multimodal understanding, text-to-image generation, and image editing benchmarks.
 ![fig1](imgs/res.png)
+* Comparisons with state-of-the-arts on multimodal understanding benchmarks.
+![fig1](imgs/und_res.png)
 
 ## ✨ Image Generation
 
