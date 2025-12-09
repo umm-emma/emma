@@ -3,7 +3,7 @@
 
 
 ## 📰 News
-* **[2025.12.04]**  🔥 We have released **EMMA: Efficient Multimodal Understanding, Generation, and Editing with a Unified Architecture**. Check out the **[** [Paper](https://arxiv.org/abs/2512.04810);  **]**. 
+* **[2025.12.04]**  🔥 We have released **EMMA: Efficient Multimodal Understanding, Generation, and Editing with a Unified Architecture**. Check out the **[** [Paper](https://arxiv.org/abs/2512.04810) **]**. 
 
 ![fig1](imgs/EMMA_01.png)
 
@@ -16,7 +16,7 @@ We propose EMMA, an efficient and unified architecture for multimodal understand
 
 
 ## ✨ Comparison
-
+Comparison between different unified multimodal approaches across multimodal understanding, text-to-image generation, and image editing benchmarks.
 ![fig1](imgs/res.png)
 
 ## ✨ Image Generation
