@@ -5,7 +5,7 @@
 ## 📰 News
 * **[2025.12.04]**  🔥 We have released **EMMA: Efficient Multimodal Understanding, Generation, and Editing with a Unified Architecture**. Check out the **[** [Paper](https://arxiv.org/abs/2512.04810) **]**. 
 
-![fig1](imgs/EMMA_01.png)
+![fig1](imgs/EMMA_01_new.png)
 
 
 ## 🏆 Contributions
