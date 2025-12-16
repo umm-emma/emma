@@ -32,11 +32,14 @@ We propose EMMA, an efficient and unified architecture for multimodal understand
 ## 📕 BibTeX 
 
 ```bib
-@article{he2025emma,
-  title={EMMA: Efficient Multimodal Understanding, Generation, and Editing with a Unified Architecture},
-  author={He, Xin and Wei, Longhui and Ouyang, Jianbo and Xie, Lingxi and Tian, Qi},
-  journal={arXiv preprint arXiv:2512.04810},
-  year={2025}
+@misc{he2025emmaefficientmultimodalunderstanding,
+      title={EMMA: Efficient Multimodal Understanding, Generation, and Editing with a Unified Architecture}, 
+      author={Xin He and Longhui Wei and Jianbo Ouyang and Minghui Liao and Lingxi Xie and Qi Tian},
+      year={2025},
+      eprint={2512.04810},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2512.04810}, 
 }
 ```
 
